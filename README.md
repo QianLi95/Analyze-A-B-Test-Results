@@ -1,14 +1,13 @@
 # Analyze-A-B-Test-Results
-## Table of Contents¶
-* Introduction
+ ## Introduction
 A/B tests are very commonly performed by data analysts and data scientists.
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-* Part I - Probability
+ ## Part I - Probability
   * Bootstrapping sampling distributions
-* Part II - A/B Test
+ ##  Part II - A/B Test
   * P-value and Z-score calculation
-* Part III - Regression
+ ## Part III - Regression
   * Logistic regression
 
 
